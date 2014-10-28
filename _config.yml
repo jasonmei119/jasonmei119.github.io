@@ -1,0 +1,10 @@
+# Site settings
+title: Jason's Website
+email: jmei@albany.edu
+description: Jason is a student at UAlbany.
+url: jasonmei119.github.io
+github_username: jasonmei119
+
+# Build settings
+markdown: kramdown
+permalink: pretty
